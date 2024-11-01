@@ -1,2 +1,2 @@
-# revis-o
+# revisao
 Revisão P2 POO
